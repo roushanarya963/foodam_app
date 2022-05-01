@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "705999395764",
+    "project_id": "foodamsuperapp",
+    "storage_bucket": "foodamsuperapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705999395764:android:4ee2d6ee52ea3a12e9f0e1",
+        "android_client_info": {
+          "package_name": "com.foodsuperdriver.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlR-UZNADvOFb9YB7_HTlia2WWtsaOf-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705999395764:android:7e8416c4be574f2ce9f0e1",
+        "android_client_info": {
+          "package_name": "com.foodsuperstore.foodam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705999395764-nho835h6ltask9lc2a4lt77v0sgi175v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodsuperstore.foodam",
+            "certificate_hash": "827c41db6a50803536cd6a4e598f1e17c8182d84"
+          }
+        },
+        {
+          "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlR-UZNADvOFb9YB7_HTlia2WWtsaOf-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705999395764:android:5ae69a267be33c26e9f0e1",
+        "android_client_info": {
+          "package_name": "com.foodsupervendor.foodam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlR-UZNADvOFb9YB7_HTlia2WWtsaOf-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705999395764:android:07deafaca85deb6ae9f0e1",
+        "android_client_info": {
+          "package_name": "com.user.foodam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlR-UZNADvOFb9YB7_HTlia2WWtsaOf-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705999395764-u826fgu99ufvm2abfmttd1f7gq81clf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
